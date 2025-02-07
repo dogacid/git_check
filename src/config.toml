@@ -1,0 +1,2 @@
+keywords = ["Password", "password", "secret", "api_key"]
+extensions = ["json", "env", "txt"]

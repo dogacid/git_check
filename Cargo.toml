@@ -1,0 +1,9 @@
+[package]
+name = "git_check"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+git2 = "0.20.0"
+glob = "0.3.2"
+toml = "0.8.20"
